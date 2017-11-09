@@ -8,7 +8,9 @@
 </head>
 <body>
 <h1>on test git</h1>
-    
+    <?php
+    echo 'nous somme le' . date('d-m-Y'); 
+    ?>
     
 </body>
 </html>
