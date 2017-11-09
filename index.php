@@ -11,6 +11,7 @@
     <?php
     echo 'nous somme le' . date('d-m-Y'); 
     ?>
+    je suis a la retriate
     
 </body>
 </html>
